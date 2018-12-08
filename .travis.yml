@@ -1,9 +1,9 @@
 language: csharp
 script:
-  - xbuild /p:Configuration=Debug OptFields.sln
+  - xbuild /p:Configuration=Debug OptField.sln
 before_install:
   - sudo apt-get install nunit-console
 before_script:
-  - nuget restore OptFields.sln
+  - nuget restore OptField.sln
 after_script:
   - nunit-console OptFieldsTests/bin/Debug/OptFieldsTests.dll
