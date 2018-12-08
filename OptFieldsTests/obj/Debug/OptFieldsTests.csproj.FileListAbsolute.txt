@@ -1,0 +1,12 @@
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\OptFieldsTests.dll
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\OptFieldsTests.pdb
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\nunit.framework.dll
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\OptField.exe
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\OptField.pdb
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\OptField.exe.config
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\bin\Debug\nunit.framework.xml
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\obj\Debug\OptFieldsTests.csprojAssemblyReference.cache
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\obj\Debug\OptFieldsTests.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\obj\Debug\OptFieldsTests.csproj.CopyComplete
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\obj\Debug\OptFieldsTests.dll
+C:\Users\PRIDE\source\repos\OptField\OptFieldsTests\obj\Debug\OptFieldsTests.pdb
